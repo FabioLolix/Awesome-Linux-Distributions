@@ -1,1 +1,1 @@
-# awesome-linux-distributions
+# Awesome Linux Distributions
