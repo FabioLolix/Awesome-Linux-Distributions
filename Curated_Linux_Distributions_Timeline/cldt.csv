@@ -3,6 +3,7 @@
 ,,,,,,,,,,,,,,,,
 "N","Debian","#bf1238",,"1993.8.16",,,"https://distroware.gitlab.io/os/Linux/d/debian",,,,,,,,,
 "N","Ubuntu","#e95420","Debian","2004.10.20",,,"https://distroware.gitlab.io/os/Linux/u/ubuntu",,,,,,,,,
+"N","Kubuntu","#4f5695","Ubuntu","2005.4.8",,,"https://distroware.gitlab.io/os/Linux/k/kubuntu",,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "N","Red Hat Linux","#cc0000",,"1994.11.3","2004.04.30",,"https://distroware.gitlab.io/os/Linux/r/red-hat",,,,,,,,,
 "N","Red Hat Enterprise Linux","#cc0000","Red Hat Linux","2000.02.22",,,"https://distroware.gitlab.io/os/Linux/r/red-hat",,,,,,,,,
