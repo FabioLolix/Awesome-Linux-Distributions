@@ -3,6 +3,7 @@
 ,,,,,,,,,,,,,,,,
 "N","Debian","#bf1238",,"1993.8.16",,,"https://distroware.gitlab.io/os/Linux/d/debian",,,,,,,,,
 ,,,,,,,,,,,,,,,,
+"N","Arch Linux","#0771a6",,"2002.3.11",,,"https://distroware.gitlab.io/os/Linux/a/arch-linux",,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Connectors",,,,,,,,,,,,,,,
 "#","Leaving 'To When' empty will result in using 'From When' as this value",,,,,,,,,,,,,,,
