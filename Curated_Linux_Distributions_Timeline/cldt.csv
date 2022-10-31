@@ -9,6 +9,7 @@
 ,,,,,,,,,,,,,,,,
 "N","OpenWRT","#557788",,"2001.6.1",,,"https://distroware.gitlab.io/os/Linux/o/openwrt",,,,,,,,,
 "N","Alpine Linux","#5f8dd3",,"2006.5.4",,,"https://distroware.gitlab.io/os/Linux/a/alpine-linux",,,,,,,,,
+"N","OpenELEC","#88BDE1",,"2009.9.6","2020.06.3",,"https://distroware.gitlab.io/os/Linux/o/openelec",,,,,,,,,
 ,,,,,,,,,,,,,,,,
 "#","Connectors",,,,,,,,,,,,,,,
 "#","Leaving 'To When' empty will result in using 'From When' as this value",,,,,,,,,,,,,,,
